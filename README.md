@@ -1,7 +1,7 @@
 # Proyecto Simulación de Sistemas -- The Drunkard's Walk
 ### Nombre: Carlos Ferrer
 ### Cedula: 28.326.446
-### Sección N1113
+### Sección: N1113
 
 #### ¿Como Abrir el programa?
 
